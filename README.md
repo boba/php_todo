@@ -22,7 +22,7 @@ environment, YMMV.
 
 * Get an account on code anywhere
 * Select File -> New Connection -> Git From URL
-* Paste this repo into the dialog: https://github.com/boba/php_todo.git
+* Paste this repo into the dialog: git@github.com:boba/php_todo.git
 * Click Next
 * Enter PHP_ToDo as the name
 * Select PHP 7 as the stack
@@ -38,8 +38,17 @@ environment, YMMV.
 
 ### Viewing your Application
 
-* Find a URL for your application in the container information document
-* Click that URL (http:// or https://)
+* Click the Run Project button
+
+## Now what?
+
+* Play with the application to get a feel for what it does.
+* Open the index.php file and see what it does
+* Explore the other files
+* Make some changes
+* Add a new feature
+* Customize the look and feel
+* Share what you've learned with others!
 
 
 
