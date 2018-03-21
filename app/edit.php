@@ -20,7 +20,7 @@ if(isset($_GET['id'])){
 
       $model->save();
       
-      mmm_snacks("TODO", "Updated");
+      treatYoSelf("TODO", "Updated");
     } 
     
     echo <<<EOT

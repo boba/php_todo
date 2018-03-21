@@ -13,7 +13,7 @@
 
     try {
       $model = ToDo::create($name, $detail);
-      mmm_snacks("TODO", "# " . $model->id . " created");
+      treatYoSelf("TODO", "# " . $model->id . " created");
     } catch (Exception $e) {
       echo "Error: " . $e->getMessage(). "<br/>";
       die();

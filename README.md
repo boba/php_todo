@@ -9,18 +9,19 @@ basic web application using PHP.
 
 The following statements are true and should provide many grains of salt:
 
-* This demo was created on CodeAnywhere
+* This demo was created on [CodeAnywhere](http://codeanywhere.com)
+* Some things were done intentionally to show different ways of doing things
 * Little in this demo should be construed as secure or a best practice
-* There are bugs
+* There are bugs and Easter eggs
 
 ## Getting Started
 
-It's easy to get up and running with CodeAnywhere. If you'd rather use a different
+It's easy to get up and running with [CodeAnywhere](http://codeanywhere.com). If you'd rather use a different
 environment, YMMV.
 
 ### CodeAnywhere
 
-* Get an account on code anywhere
+* Get an account on [CodeAnywhere](http://codeanywhere.com)
 * Select File -> New Connection -> Git From URL
 * Paste this repo into the dialog: git@github.com:boba/php_todo.git
 * Click Next

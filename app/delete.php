@@ -13,7 +13,7 @@
   
     try {
       ToDo::delete($id);
-      mmm_snacks("TODO", "Deleted");
+      treatYoSelf("TODO", "Deleted");
     } catch (PDOException $e) {
       echo "Error: " . $e->getMessage(). "<br/>";
       die();

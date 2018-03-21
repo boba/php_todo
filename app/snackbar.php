@@ -1,4 +1,4 @@
 <?php
-function mmm_snacks($title, $message) {
+function treatYoSelf($title, $message) {
   echo "<div id=\"snackbar\">$title: $message</div>";
 }
