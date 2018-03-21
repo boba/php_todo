@@ -23,7 +23,7 @@ environment, YMMV.
 
 * Get an account on [CodeAnywhere](http://codeanywhere.com)
 * Select File -> New Connection -> Git From URL
-* Paste this repo into the dialog: git@github.com:boba/php_todo.git
+* Paste this repo into the dialog: [git@github.com:boba/php_todo.git](git@github.com:boba/php_todo.git)
 * Click Next
 * Enter PHP_ToDo as the name
 * Select PHP 7 as the stack
